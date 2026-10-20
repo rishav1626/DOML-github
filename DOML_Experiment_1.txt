@@ -1,0 +1,20 @@
+
+DOML EXPERIMENT 1
+Topic: Git and GitHub Version Control
+
+Objective:
+To understand and implement basic Git operations
+for managing source code using version control.
+
+Git is a distributed version control system.
+GitHub provides remote repository hosting.
+
+Operations:
+1. Clone Repository
+2. Check Git Status
+3. Create Branch
+4. Create File
+5. Stage Changes
+6. Commit Changes
+7. Push to GitHub
+8. Pull Updates
